@@ -20,7 +20,6 @@
 </p>
 <br>
 <br>
-<h3 align="center">💖 Github Stats 💖</h3>
 <div align="center">
 
 [![ynurr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ynurr&hide_title=true&show_icons=true&icon_color=A3A0ED&include_all_commits=true&count_private=true&disable_animations=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
